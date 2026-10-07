@@ -28,4 +28,4 @@ cd meroedu-ros
 | ROS → Arduino encoder motor | [ROS 강의](https://mero-website-one.vercel.app/education/ros/arduino-motor) | [meroedu-control / 02](https://github.com/merosnurobotics/meroedu-control/tree/main/lessons/02-ros-arduino-motor) |
 | ROS → OpenRB DYNAMIXEL | [ROS 강의](https://mero-website-one.vercel.app/education/ros/dynamixel) | [meroedu-control / 04](https://github.com/merosnurobotics/meroedu-control/tree/main/lessons/04-ros2-dynamixel) |
 
-검증(2026-10-08): colcon build, 실제 ROS talker/listener, PoseStamped 31개 bag record와 replay→echo를 확인했습니다. 공식 demo_nodes_cpp 통신·turtlesim GUI 및 RViz desktop 표시 등은 별도 환경에서 확인해야 합니다. ROS package는 Ubuntu22.04/Humble/systemPython3.10 기준입니다.
+검증(2026-10-08): colcon build, 실제 ROS talker/listener, PoseStamped 31개 bag record와 replay→echo를 확인했습니다. 공식 demo_nodes_cpp talker/listener 통신도 확인했습니다. Turtlesim GUI 및 RViz desktop 표시는 별도 환경에서 확인해야 합니다. ROS package는 Ubuntu22.04/Humble/systemPython3.10 기준입니다.
