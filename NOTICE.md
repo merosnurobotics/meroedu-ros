@@ -21,3 +21,7 @@ Foxy/Elice 환경·미완성 TODO 코드는 Ubuntu22.04/Humble 기준의 독립 
 ROS 2 examples: Copyright 2016 Open Source Robotics Foundation, Inc. Apache License, Version 2.0. 원본은 AS IS, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND 조건으로 배포됩니다. 교육용 node는 topic/name/timer 및 종료 처리를 재구성했습니다.
 
 예제 코드는 Apache-2.0입니다. PDF 원자료의 권리는 원저작자에게 있습니다. ROS 예제와 본 자료는 특정 하드웨어 동작을 검증하는 코드가 아닙니다.
+
+- https://docs.ros.org/en/humble/Tutorials/Beginner-CLI-Tools/Introducing-Turtlesim/Introducing-Turtlesim.html
+- https://docs.ros.org/en/humble/Tutorials/Beginner-CLI-Tools/Recording-And-Playing-Back-Data/Recording-And-Playing-Back-Data.html
+- https://docs.ros.org/en/humble/Tutorials/Intermediate/RViz/RViz-User-Guide/RViz-User-Guide.html
